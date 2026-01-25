@@ -1,6 +1,7 @@
 {
-  "latest": "v1.1.4",
+  "latest": "v1.1.5",
   "versions": {
+    "v1.1.5": "https://github.com/4444753951/a/releases/download/v1.1.5/updata.zip",
     "v1.1.4": "https://github.com/4444753951/a/releases/download/v1.1.4/updata.zip",
     "v1.1.3": "https://github.com/4444753951/a/releases/download/v1.1.3/updata.zip",
     "v1.1.2": "https://github.com/4444753951/a/releases/download/v1.1.2/updata.zip",
