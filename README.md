@@ -1,6 +1,6 @@
 # a
 魔改苏苏v1
-用于自动升级 魔改苏苏v1
+可以实现 迷津，戏剧，副本捉魔灵，活动 自动化
 
 本体下载链接：
 https://github.com/4444753951/a/releases/download/v1.0.3/mgsusu.7z
